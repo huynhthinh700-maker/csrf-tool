@@ -65,8 +65,8 @@ This is a **demo  tool**, built for learning and experimentation purposes. It is
 * Playwright
 * Requests
 * BeautifulSoup
-* ollama
-* llama (in AI_install.docs)
+* ollama (model mistral
+* llama (in link : https://github.com/tashfeenahmed/freellmapi?fbclid=IwY2xjawRiSlFleHRuA2FlbQIxMABicmlkETFia3ZRbVlnUVM5RG9Ec2c3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpHMO4pkIiUTCtKT9EAXvw3qmD7EdQy6KxhTkRMbqevqTKHbbG0csYZG8-5U_aem_kvUkBVJblS5obiyEowWsqA#using-the-api)
 
 ### Setup
 
